@@ -1,0 +1,30 @@
+{
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "god_of_highschool_mod",
+    "modName": "God Of Highschool [Mod]",
+    "version": "1.0.0",
+    "author": "Siku#3737, Fu#9400,  DragonfromDatr39#2946",
+    "websiteURL": "https://www.curseforge.com/members/siikkuu/projects",
+    "license": "All Rights Reserved",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "modElementsPackage": "gods.of.mc.highschool",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}

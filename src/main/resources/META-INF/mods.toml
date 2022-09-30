@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="god_of_highschool_mod"
+version="1.0.0"
+displayName="God Of Highschool [Mod]"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://www.curseforge.com/members/siikkuu/projects"
+authors="Siku#3737, Fu#9400,  DragonfromDatr39#2946"
+
+[[dependencies.god_of_highschool_mod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
